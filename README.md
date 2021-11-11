@@ -6,3 +6,5 @@ Based on:
 
 * https://github.com/influxdata/influxdata-docker
 * https://github.com/weldpua2008/docker-net-snmp
+
+THIS PROJECT IS NO LONGER MAINTAINED.
